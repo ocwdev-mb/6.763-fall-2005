@@ -2,16 +2,16 @@
 content_type: page
 description: Syllabus section contains prerequistes, grading criteria and course description
   etc.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Syllabus
+title: Syllabusdd
 uid: 347c4804-06c9-efb6-ca18-2fbec09205f8
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-
 Course Meeting Times
 --------------------
 
