@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "a15182fd-191f-00f7-6984-16338e7be289",
+  "instructors": {
+    "content": [
+      "efe6155e-197e-0eb1-0ef1-b8079db5ad49"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "61640647-2593-2e5c-8291-43c8052be490",
+    "website": "6-763-applied-superconductivity-fall-2005"
+  },
+  "course_title": "Applied Superconductivity",
+  "course_description": "This course provides a phenomenological approach to superconductivity, with emphasis on superconducting electronics. Topics include: electrodynamics of superconductors, London's model, flux quantization, Josephson Junctions, superconducting quantum devices, equivalent circuits, high-speed superconducting electronics, and quantized circuits for quantum computing. The course also provides an overview of type II superconductors, critical magnetic fields, pinning, the critical state model, superconducting materials, and microscopic theory of superconductivity.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.763",
+  "course_image_thumbnail": {
+    "content": "0eede28f-b3f0-dbb6-c0d3-d0f28e570591",
+    "website": "6-763-applied-superconductivity-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "c37678a0-f042-4100-a7d3-793fea694f03",
+  "site_short_id": "6.763-fall-2005",
+  "title": "Course Metadata"
+}
